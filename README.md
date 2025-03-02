@@ -2,7 +2,6 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
 ## Run Local server
 
@@ -29,7 +28,7 @@ We are using React Query for fetching data from the API. It provides:
 - Optimistic updates
 - Synchronization with minimal boilerplate
 
-## Note
+#Note
 
 We are not invalidating the cache here, so the data will remain cached for all requests.
 
